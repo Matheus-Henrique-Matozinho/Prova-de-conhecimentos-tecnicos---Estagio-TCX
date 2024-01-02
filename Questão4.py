@@ -1,4 +1,8 @@
 """
+Descrição: Questão 4 da Prova de conhecimentos técnicos - Estágio TCX
+   Elaborado por: Matheus Henrique Martins Matozinho
+
+Resposta:   
 QUESTÃO 4)
 O OpenCV oferece diversas transformações geométricas para manipulação de imagens, permitindo ajustes como translação, rotação, redimensionamento e perspectiva. Cada uma dessas transformações é crucial em diferentes contextos de visão computacional.
 
